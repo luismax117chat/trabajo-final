@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Te verde",
+        "stock": 10,
+        "origen": "nesquit"
+    },
+    {
+        "nombre": "pay",
+        "stock": 7,
+        "origen": "rtr"
+    },
+    {
+        "nombre": "mofles",
+        "stock": 11,
+        "origen": "yet"
+    },
+    {
+        "nombre": "Café Americano ",
+        "stock": 9,
+        "origen": "Chiapas"
+    }
+]

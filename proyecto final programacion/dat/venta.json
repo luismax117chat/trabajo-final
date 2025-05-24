@@ -1,0 +1,72 @@
+[
+    {
+        "producto": "Te Verde",
+        "cantidad": 2,
+        "cliente": "Luis",
+        "origen": "nesquit",
+        "fecha": "2025-05-22"
+    },
+    {
+        "producto": "pay",
+        "cantidad": 4,
+        "cliente": "Luis",
+        "origen": "rtr",
+        "fecha": "2025-05-21"
+    },
+    {
+        "producto": "Café Americano ",
+        "cantidad": 2,
+        "cliente": "drew",
+        "origen": "Chiapas",
+        "fecha": "2025-05-15"
+    },
+    {
+        "producto": "Café Americano ",
+        "cantidad": 3,
+        "cliente": "jack",
+        "origen": "Chiapas",
+        "fecha": "2025-05-21"
+    },
+    {
+        "producto": "Café Americano ",
+        "cantidad": 2,
+        "cliente": "Chat",
+        "origen": "Chiapas",
+        "fecha": "2025-05-23"
+    },
+    {
+        "producto": "mofles",
+        "cantidad": 1,
+        "cliente": "Chat",
+        "origen": "yet",
+        "fecha": "2025-05-23"
+    },
+    {
+        "producto": "Te verde",
+        "cantidad": 2,
+        "cliente": "drew",
+        "origen": "nesquit",
+        "fecha": "2025-05-21"
+    },
+    {
+        "producto": "Te verde",
+        "cantidad": 1,
+        "cliente": "Chat",
+        "origen": "nesquit",
+        "fecha": "2025-05-23"
+    },
+    {
+        "producto": "pay",
+        "cantidad": 2,
+        "cliente": "jack",
+        "origen": "rtr",
+        "fecha": "2025-05-22"
+    },
+    {
+        "producto": "Café Americano ",
+        "cantidad": 1,
+        "cliente": "jack",
+        "origen": "Chiapas",
+        "fecha": "2025-05-23"
+    }
+]
